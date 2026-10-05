@@ -1,0 +1,19 @@
+.apple-header {
+  background: rgba(22, 22, 23, 0.8);
+}
+.apple-header .navbar {
+  min-height: 44px;
+  padding: 0;
+}
+.apple-header .navbar-brand {
+  color: #f5f5f7;
+  font-size: 18px;
+  padding: 0;
+}
+.apple-header .nav-link {
+  color: rgba(245, 245, 247, 0.8);
+  font-size: 12px;
+  padding: 0 12px;
+  line-height: 44px;
+  transition: color 0.2s;
+}/*# sourceMappingURL=style.css.map */
